@@ -53,5 +53,6 @@ img {
     color: #fff;
     font-size: 2rem;
     display: inline;
+    border-radius: 1rem;
     padding: 1rem;
 }
